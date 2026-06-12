@@ -1,0 +1,1 @@
+Built a Power BI Business Analytics Dashboard for sales, product, and customer behavior analysis, featuring sales trends, country-wise performance, RFM segmentation, and purchase pattern insights to support strategic business decisions.
